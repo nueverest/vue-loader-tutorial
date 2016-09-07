@@ -1,0 +1,24 @@
+{
+  "name": "vue-loader-tutorial",
+  "version": "1.0.0",
+  "description": "Checking out vue-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nueverest/vue-loader-tutorial.git"
+  },
+  "keywords": [
+    "vue",
+    "loader",
+    "tutorial"
+  ],
+  "author": "Chad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nueverest/vue-loader-tutorial/issues"
+  },
+  "homepage": "https://github.com/nueverest/vue-loader-tutorial#readme"
+}
